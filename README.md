@@ -1,7 +1,7 @@
 
   ### Olá, eu sou Marcos  👋
 
-- 🔭 atualmente estou a procura da minha primeira oportunidade no mercado  
+- 🔭 atualmente estou a procura da minha primeira oportunidade no mercado  como desenvolvedor front-end
 
 - 📖 atualmente estou aprendendo desenvolvimento de software.
 
