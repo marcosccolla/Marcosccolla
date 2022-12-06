@@ -1,9 +1,9 @@
 
   ### Olá, eu sou Marcos  👋
 
-- 🔭 atualmente estou a procura da minha primeira oportunidade no mercado  como desenvolvedor front-end
+- 🔭 Atualmente estou a procura da minha primeira oportunidade no mercado  como desenvolvedor front-end
 
-- 📖 atualmente estou aprendendo desenvolvimento de software.
+- 📖 No momento atual estou  aprendendo desenvolvimento de software.
 
 - 😄 Pronomes:ele/dele
 
