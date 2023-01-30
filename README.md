@@ -7,7 +7,7 @@
 
 - 😄 Pronomes:ele/dele
 
-- ⚡ Meu propósito é ajudar as pessoas através da teccnologia
+- ⚡ Meu propósito é ajudar as pessoas através da tecnologia
 
 <div align="center">
 
